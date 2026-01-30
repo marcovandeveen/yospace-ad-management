@@ -1,8 +1,8 @@
-# Yospace Ad Management SDK
+#  Ad Management SDK
 
 **Version:** 1.7.10
 
-A client-side JavaScript SDK for Server-Side Ad Insertion (SSAI) with Yospace streams. This library handles ad session management, VAST/VMAP parsing, analytics tracking, and timeline management for HLS and DASH video streams.
+A client-side JavaScript SDK for Server-Side Ad Insertion (SSAI). This library handles ad session management, VAST/VMAP parsing, analytics tracking, and timeline management for HLS and DASH video streams.
 
 ## Overview
 
@@ -291,6 +291,3 @@ For live streams, the SDK parses ID3 tags with Yospace metadata:
 | `yo-ad-management.min.js` | Minified production build (93KB) |
 | `yo-ad-management.js` | Unminified source with comments (192KB) |
 
-## License
-
-Proprietary - Yospace Technologies Ltd.
